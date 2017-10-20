@@ -1,0 +1,16 @@
+div {
+    text-align: center;
+    font-family: "Bold", sans-serif;
+    font-size: 48px;
+    color: black;
+}
+table {
+    vertical-align: center;
+    height: 30%;
+    width: 100%;
+}
+body {
+    background:#FFFF66;
+    margin: 0;
+    padding: 0;
+}
